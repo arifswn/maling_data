@@ -23,3 +23,4 @@
 - Cara Menghentikan: Press Key in Keyboard (Shorcut Key to Disable) -> CTRL+ALT+E
 
 *Dibalik rasa pahit terdapat rasa manis | dibalik rasa manis terdapat rasa pait.*
+*From Nothing to Be Everything*
